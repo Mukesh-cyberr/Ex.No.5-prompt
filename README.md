@@ -35,6 +35,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
-
+[OUTPUT PDF](PromptExp-5.pdf)
 
 # RESULT: The prompt for the above said problem executed successfully
